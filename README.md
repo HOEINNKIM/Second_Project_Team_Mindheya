@@ -1,4 +1,4 @@
-<center><img src="./Mindheya/src/main/webapp/resources/image/marvelousmonday.png" width="700" height="200"></center>
+<center><img src="./Mindheya/src/main/webapp/resources/image/marvelousmonday.png" width="500" height="200"></center>
   
 # Second Project  'MindHeya'
     
