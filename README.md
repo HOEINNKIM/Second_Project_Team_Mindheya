@@ -1,4 +1,4 @@
-![marvelousmonday](./Mindheya/src/main/webapp/resources/image/marvelousmonday.png)
+![marvelousmonday](./Mindheya/src/main/webapp/resources/image/marvelousmonday.png){: .center}
   
 # Second Project  'MindHeya'
     
