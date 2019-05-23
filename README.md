@@ -1,6 +1,6 @@
-![marvelousmonday](./Mindheya/src/main/webapp/resources/image/marvelousmonday.png){: .center}
+![marvelousmonday](./Mindheya/src/main/webapp/resources/image/marvelousmonday.png)
   
-# Second Project  'MindHeya'
+# Second Project  'MindHeya'{: .center}
     
   It means 'Mind Room'  in Japanese   
    
