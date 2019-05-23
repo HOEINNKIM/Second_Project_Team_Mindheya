@@ -1,5 +1,4 @@
-![marvelousmonday](){: .center}
-<center><img src="./Mindheya/src/main/webapp/resources/image/marvelousmonday.png" width="300" height="300"></center>
+<center><img src="./Mindheya/src/main/webapp/resources/image/marvelousmonday.png" width="1000" height="200"></center>
   
 # Second Project  'MindHeya'
     
